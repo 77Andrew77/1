@@ -1,0 +1,16 @@
+E:\!!Практика\Модуль 1\#1\bin\Debug\#1.exe.config
+E:\!!Практика\Модуль 1\#1\bin\Debug\#1.exe
+E:\!!Практика\Модуль 1\#1\bin\Debug\#1.pdb
+E:\!!Практика\Модуль 1\#1\obj\Debug\Solution 1.csproj.AssemblyReference.cache
+E:\!!Практика\Модуль 1\#1\obj\Debug\Solution 1.csproj.SuggestedBindingRedirects.cache
+E:\!!Практика\Модуль 1\#1\obj\Debug\Solution 1.csproj.CoreCompileInputs.cache
+E:\!!Практика\Модуль 1\#1\obj\Debug\#1.exe
+E:\!!Практика\Модуль 1\#1\obj\Debug\#1.pdb
+E:\!!Практика\Модуль 1\Solution 1\bin\Debug\#1.exe.config
+E:\!!Практика\Модуль 1\Solution 1\bin\Debug\#1.exe
+E:\!!Практика\Модуль 1\Solution 1\bin\Debug\#1.pdb
+E:\!!Практика\Модуль 1\Solution 1\obj\Debug\Solution 1.csproj.AssemblyReference.cache
+E:\!!Практика\Модуль 1\Solution 1\obj\Debug\Solution 1.csproj.SuggestedBindingRedirects.cache
+E:\!!Практика\Модуль 1\Solution 1\obj\Debug\Solution 1.csproj.CoreCompileInputs.cache
+E:\!!Практика\Модуль 1\Solution 1\obj\Debug\#1.exe
+E:\!!Практика\Модуль 1\Solution 1\obj\Debug\#1.pdb
